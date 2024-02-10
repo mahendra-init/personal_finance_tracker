@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "description": "Jan",
+    "amount": "10000",
+    "category": "salary",
+    "type": "income",
+    "date": 1707572634979
+  },
+  {
+    "id": 2,
+    "description": "Fees",
+    "amount": "5000",
+    "category": "Education",
+    "type": "expense",
+    "date": 1707572648560
+  },
+  {
+    "id": 3,
+    "description": "Monthly Groceries",
+    "amount": "2500",
+    "category": "Shopping",
+    "type": "expense",
+    "date": 1707572664952
+  },
+  {
+    "id": 4,
+    "description": "Feb",
+    "amount": "11000",
+    "category": "salary",
+    "type": "income",
+    "date": 1707572675305
+  },
+  {
+    "id": 5,
+    "description": "Incentive",
+    "amount": "2000",
+    "category": "others",
+    "type": "income",
+    "date": 1707572687688
+  },
+  {
+    "id": 6,
+    "description": "Medicines",
+    "amount": "2541",
+    "category": "Health",
+    "type": "expense",
+    "date": 1707572700573
+  },
+  {
+    "id": 7,
+    "description": "Salaar",
+    "amount": "250",
+    "category": "Entertainment",
+    "type": "expense",
+    "date": 1707572725044
+  }
+]
